@@ -1,9 +1,5 @@
-**Ishak Yusuf**
-
+### **Ishak Yusuf**
 **Computational Biologist**
----
-
-### **Professional Summary**
 
 Experienced Computational Biologist with over five years of expertise in analyzing diverse biological data. Proficient in bioinformatics tools for omics data analysis, focusing on proteomics and transcriptomics. Dedicated to advancing bioinformatics and biomedical research through innovative analysis techniques.
 
