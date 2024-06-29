@@ -1,7 +1,8 @@
 ### **Ishak Yusuf**
 **Computational Biologist**
 
-Experienced Computational Biologist with over five years of expertise in analyzing diverse biological data. Proficient in bioinformatics tools for omics data analysis, focusing on proteomics and transcriptomics. Dedicated to advancing bioinformatics and biomedical research through innovative analysis techniques.
+Yusuf is an experienced Computational Biologist with over five years of expertise in analyzing diverse biological data. He holds a Master of Science degree in Bioinformatics and Molecular Genetics from the University of Leicester and a Bachelor's degree in Biotechnology from UCSI. Currently, Yusuf works as a Research Fellow at the Istituto di Tecnologie Biomediche. His work focuses on evaluating bioinformatics tools for omics data analysis, particularly in proteomics and transcriptomics. Through his research, Yusuf aims to unravel complex biological systems and advance our understanding of crucial cellular processes, contributing significantly to scientific progress and innovation in bioinformatics and biomedical research.
+
 
 ---
 
