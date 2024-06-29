@@ -3,7 +3,7 @@
 **Computational Biologist**
 
 - **Email:** ishakyusuf18@outlook.com
-- **LinkedIn:** [linkedin.com/in/isky20](https://www.linkedin.com/in/isky20/)
+- **LinkedIn:** [isky20](https://www.linkedin.com/in/isky20/)
 - **ORCID:** [0000-0003-1635-1350](https://orcid.org/0000-0003-1635-1350)
 
 ---
